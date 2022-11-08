@@ -1,5 +1,6 @@
 # IDE
 .vscode
+*.DS_Store
 
 # Prerequisites
 *.d
@@ -33,3 +34,4 @@
 *.exe
 *.out
 *.app
+
